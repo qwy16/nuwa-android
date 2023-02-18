@@ -155,9 +155,9 @@
 	<string name="mute_user_explain">你不会在你的主页里看到他们的嘟文和转发，他们也不会知道你隐藏了他们。</string>
 	<string name="block_user_explain">他们不能再关注你或看到你的嘟文，但他们可以知道他们是否被屏蔽。</string>
 	<string name="report_personal_title">不想看到这个？</string>
-	<string name="report_personal_subtitle">如果在Mastodon看到不喜欢的东西，可以尝试移除它。</string>
+	<string name="report_personal_subtitle">如果在NuwaSocial(Mastodon)看到不喜欢的东西，可以尝试移除它。</string>
 	<string name="back">返回</string>
-	<string name="instance_catalog_title">Mastodon由来自不同服务器的用户组成。</string>
+	<string name="instance_catalog_title">NuwaSocial(Mastodon)由来自不同服务器的用户组成。</string>
 	<string name="instance_catalog_subtitle">根据你的兴趣、地区或其他目的挑选一个服务器。无论你选择哪个服务器，你都可以跟所有人联系。</string>
 	<string name="edit_photo">编辑</string>
 	<string name="password_note">包括大写字母、特殊字符和数字以增加你的密码强度。</string>
@@ -232,7 +232,7 @@
 	<string name="settings_privacy_policy">隐私政策</string>
 	<string name="settings_spicy">危险地带</string>
 	<string name="settings_clear_cache">清除媒体缓存</string>
-	<string name="settings_app_version">Mastodon for Android v%1$s (%2$d)</string>
+	<string name="settings_app_version">NuwaSocial for Android v%1$s (%2$d)</string>
 	<string name="media_cache_cleared">媒体缓存已清除</string>
 	<string name="confirm_log_out">确定要退出账户吗？</string>
 	<string name="sensitive_content">敏感内容</string>
@@ -275,10 +275,10 @@
 	<string name="downloading">正在下载…</string>
 	<string name="no_app_to_handle_action">未找到可处理此操作的应用</string>
 	<string name="local_timeline">本站时间轴</string>
-	<string name="trending_posts_info_banner">这是在你的Mastodon角落备受关注的内容。</string>
-	<string name="trending_hashtags_info_banner">这是在你的Mastodon角落备受关注的话题。</string>
-	<string name="trending_links_info_banner">这是在你的Mastodon角落分享最多的新闻故事。</string>
-	<string name="local_timeline_info_banner">这是你所在的Mastodon服务器上的用户发布的最新嘟文。</string>
+	<string name="trending_posts_info_banner">这是在你的女娲网NuwaSocial (Mastodon)角落备受关注的内容。</string>
+	<string name="trending_hashtags_info_banner">这是在你的女娲网NuwaSocial (Mastodon)角落备受关注的话题。</string>
+	<string name="trending_links_info_banner">这是在你的女娲网NuwaSocial (Mastodon)角落分享最多的新闻故事。</string>
+	<string name="local_timeline_info_banner">这是你所在的女娲网NuwaSocial (Mastodon)服务器上的用户发布的最新嘟文。</string>
 	<string name="dismiss">驳回</string>
 	<string name="see_new_posts">查看新嘟文</string>
 	<string name="load_missing_posts">加载嘟文</string>
@@ -358,7 +358,43 @@
 	<string name="login_title">欢迎回来</string>
 	<string name="login_subtitle">登陆到你创建账户的服务器。</string>
 	<string name="server_url">服务器地址</string>
+	<string name="welcome_page1_title">什么是NuwaSocial？</string>
+	<string name="welcome_page1_text">想像您已经拥有以 @example.com 结尾的 email 信箱地址。\n\n您仍可发送及接收來自任何人的电子邮件，无论他们的信箱是來自 @gmail.com 或 @icloud.com 或 @example.com。</string>
+	<string name="welcome_page2_title">NuwaSocial(Mastodon) 就像这样。</string>
+	<string name="welcome_page2_text">您的账户可以是 @xiaomin123@example.social，但您仍可跟随、转嘟或是与 @alice@nuwasocial.com 聊天互动。</string>
 	<string name="welcome_page3_title">如何选择服务器？</string>
+	<string name="welcome_page3_text">不同人基于各式各样的原因挑选不同的服务器。art.example 也许对艺术家来说是个好地方，glasgow.example 也许对苏格兰人來说是个好选择。\n\n任何我们推荐的服务器都是不错的选择（或者您也能搜索栏中输入您自己的服务器），您不会错过任何來自联邦宇宙角落的嘟嘟声。</string>
+	<string name="signup_random_server_explain">如果您不选择而继续的话，我们将透过您的语言设定替您选择一台服务器。</string>
+	<string name="server_filter_any_language">任何语言</string>
+	<string name="server_filter_instant_signup">马上注册</string>
+	<string name="server_filter_manual_review">手动审核</string>
+	<string name="server_filter_any_signup_speed">任何注册速度</string>
+	<string name="server_filter_region_europe">欧洲</string>
+	<string name="server_filter_region_north_america">北美洲</string>
+	<string name="server_filter_region_south_america">南美洲</string>
+	<string name="server_filter_region_africa">非洲</string>
+	<string name="server_filter_region_asia">亚洲</string>
+	<string name="server_filter_region_oceania">大洋洲</string>
+	<string name="not_accepting_new_members">目前暂不放新成员</string>
+	<string name="category_special_interests">特別兴趣</string>
+	<string name="signup_passwords_dont_match">密码不符</string>
+	<string name="pick_server_for_me">请帮我选择</string>
+	<string name="profile_add_row">新增</string>
+	<string name="profile_setup">个人资料设置</string>
+	<string name="profile_setup_subtitle">您随时能稍候在个人资料页面完成此设置。</string>
+	<string name="profile_setup_explanation">您至多能在个人资料替任何您想要的内容新增四个栏位。地点、链接、称呼 — 想像力是您的超能力！</string>
+	<string name="popular_on_mastodon">Mastodon 上之流行內容</string>
+	<string name="follow_all">关注所有</string>
+	<string name="server_rules_disagree">不同意</string>
+	<string name="privacy_policy_explanation">TL;DR：我们不收集或处理任何信息。</string>
+	<!-- %s is server domain -->
+	<string name="server_policy_disagree">不同意 %s 之隐私保护政策</string>
+	<string name="profile_bio">个人简介</string>
+	<!-- Shown in a progress dialog when you tap "follow all" -->
+	<string name="sending_follows">正在关注该用户...</string>
+	<!-- %1$s is server domain, %2$s is email domain. You can reorder these placeholders to fit your language better. -->
+	<string name="signup_email_domain_blocked">%1$s 不允许使用 %2$s 信箱注册。请重新试一试别的电子邮件提供商，或 &lt;a&gt; 挑选另一个服务器 &lt;/a&gt;。</string>
+	<string name="signup_username_taken">这个账号已经被注册过了。</string>
 	<!-- %s is server domain -->
 	<!-- Shown in a progress dialog when you tap "follow all" -->
 	<!-- %1$s is server domain, %2$s is email domain. You can reorder these placeholders to fit your language better. -->

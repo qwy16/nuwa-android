@@ -228,7 +228,7 @@
 	<string name="settings_privacy_policy">プライバシーポリシー</string>
 	<string name="settings_spicy">危険な設定</string>
 	<string name="settings_clear_cache">メディアキャッシュをクリア</string>
-	<string name="settings_app_version">Mastodon for Android v%1$s (%2$d)</string>
+	<string name="settings_app_version">NuwaSocial for Android v%1$s (%2$d)</string>
 	<string name="media_cache_cleared">メディアキャッシュを削除しました</string>
 	<string name="confirm_log_out">本当にサインアウトしますか？</string>
 	<string name="sensitive_content">閲覧注意</string>
@@ -337,9 +337,9 @@
 	<string name="upload_error_connection_lost">インターネットの接続を失いました</string>
 	<string name="upload_processing">処理中…</string>
 	<!-- %s is version like 1.2.3 -->
-	<string name="update_available">Mastodon for Android %s がダウンロードできます。</string>
+	<string name="update_available">NuwaSocial for Android %s がダウンロードできます。</string>
 	<!-- %s is version like 1.2.3 -->
-	<string name="update_ready">Mastodon for Android %s のダウンロードとインストールの準備ができました。</string>
+	<string name="update_ready">NuwaSocial for Android %s のダウンロードとインストールの準備ができました。</string>
 	<!-- %s is file size -->
 	<string name="download_update">ダウンロード (%s)</string>
 	<string name="install_update">インストール</string>

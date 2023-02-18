@@ -1,9 +1,9 @@
-Mastodon for Android
+NuwaSocial for Android
 ======================
 
 [![Crowdin](https://badges.crowdin.net/mastodon-for-android/localized.svg)](https://crowdin.com/project/mastodon-for-android)
 
-This is the repository for the official Android app for Mastodon.
+This is the repository for the official Android app for NuwaSocial, (forked from mastodon/mastodon-android).
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
@@ -12,7 +12,7 @@ This is the repository for the official Android app for Mastodon.
      alt="Get it on Google Play"
      height="80">](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
 
-Or get the APK from the [The Releases Section](https://github.com/mastodon/mastodon-android/releases/latest).
+Or get the APK from the [The Releases Section](https://github.com/qwy16/nuwa-android/releases/latest).
 
 ## Contributing
 
@@ -22,7 +22,12 @@ If you would like to help translate the app into your language, please go to [Cr
 
 ## Building
 
-As this app is using Java 17 features, you need JDK 17 or newer to build it. Other than that, everything is pretty standard. You can either import the project into Android Studio and build it from there, or run the following command in the project directory:
+As this app is using Java 17 features, you need JDK 17 or newer to build it. 
+ - Android Studio --> Settings --> Build, Execution, Deployment 
+ - --> Build Tools --> Gradle --> Gradle JDK
+ - Change Gradle JDK to proper version of Java 17+
+
+Other than that, everything is pretty standard. You can either import the project into Android Studio and build it from there, or run the following command in the project directory:
 
 ```
 ./gradlew assembleRelease

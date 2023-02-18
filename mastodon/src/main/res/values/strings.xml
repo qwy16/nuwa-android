@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name" translatable="false">Mastodon</string>
+	<string name="app_name" translatable="false">NUWA</string>
 
 	<string name="get_started">Create account</string>
 	<string name="already_have_account">I already have an account</string>
@@ -8,7 +8,7 @@
 	<string name="next">Next</string>
 	<string name="loading_instance">Retrieving server info…</string>
 	<string name="error">Error</string>
-	<string name="not_a_mastodon_instance">%s doesn\'t appear to be a Mastodon server.</string>
+	<string name="not_a_mastodon_instance">%s doesn\'t appear to be a NuwaSocial(Mastodon) server.</string>
 	<string name="ok">OK</string>
 	<string name="preparing_auth">Preparing for authentication…</string>
 	<string name="finishing_auth">Finishing authentication…</string>
@@ -175,11 +175,11 @@
 	<string name="mute_user_explain">You won\'t see their posts or reblogs in your home feed. They won\'t know they\'ve been muted.</string>
 	<string name="block_user_explain">They will no longer be able to follow or see your posts, but they can see if they\'ve been blocked.</string>
 	<string name="report_personal_title">Don\'t want to see this?</string>
-	<string name="report_personal_subtitle">When you see something you don\'t like on Mastodon, you can remove the person from your experience.</string>
+	<string name="report_personal_subtitle">When you see something you don\'t like on NuwaSocial(Mastodon), you can remove the person from your experience.</string>
 	<string name="back">Back</string>
-	<string name="instance_catalog_title">Mastodon is made of users on different servers.</string>
+	<string name="instance_catalog_title">NuwaSocial(Mastodon) is made of users on different servers.</string>
 	<string name="instance_catalog_subtitle">Pick a server based on your interests, region, or a general purpose one. You can still connect with everyone, regardless of server.</string>
-	<string name="search_communities">Server name or URL</string>
+	<string name="search_communities">nuwasocial.com</string>
 	<string name="instance_rules_title">Server Rules</string>
 	<string name="instance_rules_subtitle">By continuing, you agree to follow by the following rules set and enforced by the %s moderators.</string>
 	<string name="signup_title">Create Account</string>
@@ -233,7 +233,7 @@
 	<string name="notification_type_mention">Mentions</string>
 	<string name="notification_type_poll">Polls</string>
 	<string name="choose_account">Choose account</string>
-	<string name="err_not_logged_in">Please log into Mastodon first</string>
+	<string name="err_not_logged_in">Please log into NuwaSocial(Mastodon) first</string>
 	<plurals name="cant_add_more_than_x_attachments">
 		<item quantity="one">You can\'t add more than %d media attachment</item>
 		<item quantity="other">You can\'t add more than %d media attachments</item>
@@ -260,12 +260,12 @@
 	<string name="notify_mention">Mentions me</string>
 	<string name="settings_boring">The boring zone</string>
 	<string name="settings_account">Account settings</string>
-	<string name="settings_contribute">Contribute to Mastodon</string>
+	<string name="settings_contribute">Contribute to NuwaSocial(Mastodon)</string>
 	<string name="settings_tos">Terms of service</string>
 	<string name="settings_privacy_policy">Privacy policy</string>
 	<string name="settings_spicy">The spicy zone</string>
 	<string name="settings_clear_cache">Clear media cache</string>
-	<string name="settings_app_version">Mastodon for Android v%1$s (%2$d)</string>
+	<string name="settings_app_version">NuwaSocial(Mastodon) for Android v%1$s (%2$d)</string>
 	<string name="media_cache_cleared">Media cache cleared</string>
 	<string name="confirm_log_out">Are you sure you want to sign out?</string>
 	<string name="sensitive_content">Sensitive content</string>
@@ -309,10 +309,10 @@
 	<string name="downloading">Downloading…</string>
 	<string name="no_app_to_handle_action">There\'s no app to handle this action</string>
 	<string name="local_timeline">Community</string>
-	<string name="trending_posts_info_banner">These are the posts gaining traction in your corner of Mastodon.</string>
-	<string name="trending_hashtags_info_banner">These are the hashtags gaining traction in your corner of Mastodon.</string>
-	<string name="trending_links_info_banner">These are the news stories being shared the most in your corner of Mastodon.</string>
-	<string name="local_timeline_info_banner">These are the most recent posts by the people who use the same Mastodon server as you.</string>
+	<string name="trending_posts_info_banner">These are the posts gaining traction in your corner of NuwaSocial(Mastodon).</string>
+	<string name="trending_hashtags_info_banner">These are the hashtags gaining traction in your corner of NuwaSocial(Mastodon).</string>
+	<string name="trending_links_info_banner">These are the news stories being shared the most in your corner of NuwaSocial(Mastodon).</string>
+	<string name="local_timeline_info_banner">These are the most recent posts by the people who use the same NuwaSocial(Mastodon) server as you.</string>
 	<string name="dismiss">Dismiss</string>
 	<string name="see_new_posts">See new posts</string>
 	<string name="load_missing_posts">Load missing posts</string>
@@ -382,14 +382,14 @@
 	<string name="upload_error_connection_lost">Your device lost connection to the internet</string>
 	<string name="upload_processing">Processing…</string>
 	<!-- %s is version like 1.2.3 -->
-	<string name="update_available">Mastodon for Android %s is ready to download.</string>
+	<string name="update_available">NuwaSocial(Mastodon) for Android %s is ready to download.</string>
 	<!-- %s is version like 1.2.3 -->
-	<string name="update_ready">Mastodon for Android %s is downloaded and ready to install.</string>
+	<string name="update_ready">NuwaSocial(Mastodon) for Android %s is downloaded and ready to install.</string>
 	<!-- %s is file size -->
 	<string name="download_update">Download (%s)</string>
 	<string name="install_update">Install</string>
 	<string name="privacy_policy_title">Your Privacy</string>
-	<string name="privacy_policy_subtitle">Although the Mastodon app does not collect any data, the server you sign up through may have a different policy.\n\nIf you disagree with the policy for %s, you can go back and pick a different server.</string>
+	<string name="privacy_policy_subtitle">Although the NuwaSocial(Mastodon) app does not collect any data, the server you sign up through may have a different policy.\n\nIf you disagree with the policy for %s, you can go back and pick a different server.</string>
 	<string name="i_agree">I Agree</string>
 	<string name="empty_list">This list is empty</string>
 	<string name="instance_signup_closed">This server does not accept new registrations.</string>
@@ -401,9 +401,9 @@
 	<string name="login_title">Welcome Back</string>
 	<string name="login_subtitle">Log in with the server where you created your account.</string>
 	<string name="server_url">Server URL</string>
-	<string name="welcome_page1_title">What is Mastodon?</string>
+	<string name="welcome_page1_title">What is NuwaSocial?</string>
 	<string name="welcome_page1_text">Imagine you have an email address that ends with @example.com.\n\nYou can still send and receive emails from anyone, even if their email ends in @gmail.com or @icloud.com or @example.com.</string>
-	<string name="welcome_page2_title">Mastodon is like that.</string>
+	<string name="welcome_page2_title">NuwaSocial is like that.</string>
 	<string name="welcome_page2_text">Your handle might be @gothgirl654@example.social, but you can still follow, reblog, and chat with @fallout5ever@example.online.</string>
 	<string name="welcome_page3_title">How do I pick a server?</string>
 	<string name="welcome_page3_text">Different people choose different servers for any number of reasons. art.example is a great place for artists, while glasgow.example might be a good pick for Scots.\n\nYou can’t go wrong with any of our recommend servers, so regardless of which one you pick (or if you enter your own in the server search bar), you’ll never miss a beat anywhere.</string>
@@ -426,7 +426,7 @@
 	<string name="profile_setup">Profile setup</string>
 	<string name="profile_setup_subtitle">You can always complete this later in the Profile tab.</string>
 	<string name="profile_setup_explanation">You can add up to four profile fields for anything you want. Location, links, pronouns — the sky is the limit.</string>
-	<string name="popular_on_mastodon">Popular on Mastodon</string>
+	<string name="popular_on_mastodon">Popular on NuwaSocial(Mastodon)</string>
 	<string name="follow_all">Follow all</string>
 	<string name="server_rules_disagree">Disagree</string>
 	<string name="privacy_policy_explanation">TL;DR: We don\'t collect or process anything.</string>

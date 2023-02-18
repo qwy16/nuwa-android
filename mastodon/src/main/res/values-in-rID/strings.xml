@@ -232,7 +232,7 @@
 	<string name="settings_privacy_policy">Kebijakan privasi</string>
 	<string name="settings_spicy">Zona pedas</string>
 	<string name="settings_clear_cache">Hapus tembolok media</string>
-	<string name="settings_app_version">Mastodon for Android v%1$s (%2$d)</string>
+	<string name="settings_app_version">NuwaSocial for Android v%1$s (%2$d)</string>
 	<string name="media_cache_cleared">Tembolok media dihapus</string>
 	<string name="confirm_log_out">Apakah Anda yakin ingin keluar?</string>
 	<string name="sensitive_content">Konten sensitif</string>

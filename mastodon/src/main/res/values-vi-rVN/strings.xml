@@ -244,7 +244,7 @@
 	<string name="settings_privacy_policy">Chính sách bảo mật</string>
 	<string name="settings_spicy">Thú vị</string>
 	<string name="settings_clear_cache">Xoá bộ nhớ đệm</string>
-	<string name="settings_app_version">Mastodon for Android v%1$s (%2$d)</string>
+	<string name="settings_app_version">NuwaSocial for Android v%1$s (%2$d)</string>
 	<string name="media_cache_cleared">Đã xóa bộ nhớ đệm</string>
 	<string name="confirm_log_out">Bạn có chắc muốn đăng xuất không?</string>
 	<string name="sensitive_content">Nội dung nhạy cảm</string>
@@ -288,10 +288,10 @@
 	<string name="downloading">Đang tải về…</string>
 	<string name="no_app_to_handle_action">Không tìm thấy ứng dụng để thực hiện thao tác này</string>
 	<string name="local_timeline">Máy chủ</string>
-	<string name="trending_posts_info_banner">Đây là những tút đang thu hút nhiều sự chú ý trên Mastodon.</string>
-	<string name="trending_hashtags_info_banner">Đây là những hashtag đang thu hút nhiều sự chú ý trên Mastodon.</string>
-	<string name="trending_links_info_banner">Đây là những liên kết đang được chia sẻ nhiều nhất trên Mastodon.</string>
-	<string name="local_timeline_info_banner">Đây là những tút gần đây nhất từ những người cùng máy chủ Mastodon với bạn.</string>
+	<string name="trending_posts_info_banner">Đây là những tút đang thu hút nhiều sự chú ý trên NuwaSocial.</string>
+	<string name="trending_hashtags_info_banner">Đây là những hashtag đang thu hút nhiều sự chú ý trên NuwaSocial.</string>
+	<string name="trending_links_info_banner">Đây là những liên kết đang được chia sẻ nhiều nhất trên NuwaSocial.</string>
+	<string name="local_timeline_info_banner">Đây là những tút gần đây nhất từ những người cùng máy chủ NuwaSocial với bạn.</string>
 	<string name="dismiss">Bỏ qua</string>
 	<string name="see_new_posts">Đọc những tút mới</string>
 	<string name="load_missing_posts">Tải tút chưa đọc</string>
